@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/shabanbuja/static/css/main.f53b81b8.css",
-    "main.js": "/shabanbuja/static/js/main.122a14f7.js",
+    "main.js": "/shabanbuja/static/js/main.b5a08b1a.js",
     "static/js/453.da01c5da.chunk.js": "/shabanbuja/static/js/453.da01c5da.chunk.js",
     "static/media/ShabanBujaCV.pdf": "/shabanbuja/static/media/ShabanBujaCV.4f892ee774a718a95e00.pdf",
     "static/media/photo.jfif": "/shabanbuja/static/media/photo.1f8f6cabfdbe1c0e8728.jfif",
     "static/media/menu-logo.png": "/shabanbuja/static/media/menu-logo.16b8beef4e67ccaf2a6d.png",
     "index.html": "/shabanbuja/index.html",
     "main.f53b81b8.css.map": "/shabanbuja/static/css/main.f53b81b8.css.map",
-    "main.122a14f7.js.map": "/shabanbuja/static/js/main.122a14f7.js.map",
+    "main.b5a08b1a.js.map": "/shabanbuja/static/js/main.b5a08b1a.js.map",
     "453.da01c5da.chunk.js.map": "/shabanbuja/static/js/453.da01c5da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f53b81b8.css",
-    "static/js/main.122a14f7.js"
+    "static/js/main.b5a08b1a.js"
   ]
 }
