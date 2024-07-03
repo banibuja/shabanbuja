@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/shabanbuja/static/css/main.f53b81b8.css",
-    "main.js": "/shabanbuja/static/js/main.a36ad919.js",
-    "static/js/453.da01c5da.chunk.js": "/shabanbuja/static/js/453.da01c5da.chunk.js",
-    "static/media/ShabanBujaCV.pdf": "/shabanbuja/static/media/ShabanBujaCV.4f892ee774a718a95e00.pdf",
-    "static/media/photo.jfif": "/shabanbuja/static/media/photo.1f8f6cabfdbe1c0e8728.jfif",
-    "static/media/menu-logo.png": "/shabanbuja/static/media/menu-logo.16b8beef4e67ccaf2a6d.png",
-    "index.html": "/shabanbuja/index.html",
-    "main.f53b81b8.css.map": "/shabanbuja/static/css/main.f53b81b8.css.map",
-    "main.a36ad919.js.map": "/shabanbuja/static/js/main.a36ad919.js.map",
-    "453.da01c5da.chunk.js.map": "/shabanbuja/static/js/453.da01c5da.chunk.js.map"
+    "main.css": "/static/css/main.f53b81b8.css",
+    "main.js": "/static/js/main.e74419b5.js",
+    "static/js/453.da01c5da.chunk.js": "/static/js/453.da01c5da.chunk.js",
+    "static/media/ShabanBujaCV.pdf": "/static/media/ShabanBujaCV.4f892ee774a718a95e00.pdf",
+    "static/media/photo.jfif": "/static/media/photo.1f8f6cabfdbe1c0e8728.jfif",
+    "static/media/menu-logo.png": "/static/media/menu-logo.16b8beef4e67ccaf2a6d.png",
+    "index.html": "/index.html",
+    "main.f53b81b8.css.map": "/static/css/main.f53b81b8.css.map",
+    "main.e74419b5.js.map": "/static/js/main.e74419b5.js.map",
+    "453.da01c5da.chunk.js.map": "/static/js/453.da01c5da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f53b81b8.css",
-    "static/js/main.a36ad919.js"
+    "static/js/main.e74419b5.js"
   ]
 }
