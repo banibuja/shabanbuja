@@ -12,23 +12,14 @@ const app = express();
 
 
 app.use(cors({
-<<<<<<< HEAD
     origin: ["http://localhost:3000", "https://shabanbuja.onrender.com", "https://banibuja.github.io", "https://shabanbuja.info"],
-=======
-    origin: ["http://localhost:3000", "https://shabanbuja.onrender.com", "https://banibuja.github.io", "https://shabanbuja.info", "www.shabanbuja.info"],
->>>>>>> bbc5d0a0cbb55e33bac596f9df917b1f16e0d3b2
     methods: ["POST", "GET", "PUT", "DELETE"],
     credentials: true
 }));
 
 app.options('/sendEmailContactUs', cors({
-<<<<<<< HEAD
   origin: ["http://localhost:3000", "https://shabanbuja.onrender.com", "https://banibuja.github.io", "https://shabanbuja.info"],
   methods: ["POST", "GET", "PUT", "DELETE"],
-=======
-    origin: ["http://localhost:3000", "https://shabanbuja.onrender.com", "https://banibuja.github.io", "https://shabanbuja.info", "www.shabanbuja.info"],
-    methods: ["POST", "GET", "PUT", "DELETE"],
->>>>>>> bbc5d0a0cbb55e33bac596f9df917b1f16e0d3b2
     credentials: true
 }));
 
