@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/shabanbuja/static/css/main.f53b81b8.css",
-    "main.js": "/shabanbuja/static/js/main.a36ad919.js",
+    "main.css": "/shabanbuja/static/css/main.0b806272.css",
+    "main.js": "/shabanbuja/static/js/main.bb253ec7.js",
     "static/js/453.da01c5da.chunk.js": "/shabanbuja/static/js/453.da01c5da.chunk.js",
-    "static/media/ShabanBujaCV.pdf": "/shabanbuja/static/media/ShabanBujaCV.4f892ee774a718a95e00.pdf",
+    "static/media/boxicons.svg": "/shabanbuja/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/shabanbuja/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/shbCV.pdf": "/shabanbuja/static/media/shbCV.527d26bd5f4dbfe8cbab.pdf",
+    "static/media/boxicons.woff": "/shabanbuja/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/shabanbuja/static/media/boxicons.db9ddb1898dbd76badca.ttf",
     "static/media/photo.jfif": "/shabanbuja/static/media/photo.1f8f6cabfdbe1c0e8728.jfif",
-    "static/media/menu-logo.png": "/shabanbuja/static/media/menu-logo.16b8beef4e67ccaf2a6d.png",
+    "static/media/boxicons.woff2": "/shabanbuja/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "index.html": "/shabanbuja/index.html",
-    "main.f53b81b8.css.map": "/shabanbuja/static/css/main.f53b81b8.css.map",
-    "main.a36ad919.js.map": "/shabanbuja/static/js/main.a36ad919.js.map",
+    "main.0b806272.css.map": "/shabanbuja/static/css/main.0b806272.css.map",
+    "main.bb253ec7.js.map": "/shabanbuja/static/js/main.bb253ec7.js.map",
     "453.da01c5da.chunk.js.map": "/shabanbuja/static/js/453.da01c5da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f53b81b8.css",
-    "static/js/main.a36ad919.js"
+    "static/css/main.0b806272.css",
+    "static/js/main.bb253ec7.js"
   ]
 }
